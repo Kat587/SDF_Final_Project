@@ -1,0 +1,15 @@
+Show the option of what website is desired
+
+Give choice 
+
+if professional website is chosen
+    show the different types of codes
+
+talk about which code they want and talk about what to do next
+
+if personal website is chosen 
+    show the chat to ask what the customer wants
+
+talk about what they want on the site and see the code for it
+
+show prices of the coding depending on the service
